@@ -1,5 +1,5 @@
 {
-  "name": "canvas",
+  "name": "aws-lambda-canvas",
   "description": "Canvas graphics API backed by Cairo",
   "version": "2.6.0",
   "author": "TJ Holowaychuk <tj@learnboost.com>",
