@@ -44,7 +44,8 @@
     "lib/",
     "src/",
     "util/",
-    "types/index.d.ts"
+    "types/index.d.ts",
+    "build/"
   ],
   "types": "types/index.d.ts",
   "dependencies": {
