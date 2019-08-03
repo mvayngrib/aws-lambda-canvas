@@ -29,7 +29,8 @@
     "test": "mocha test/*.test.js",
     "pretest-server": "node-gyp build",
     "test-server": "node test/server.js",
-    "dtslint": "dtslint types"
+    "dtslint": "dtslint types",
+    "install": "echo 'not building, this is a prebuilt package'"
   },
   "binary": {
     "module_name": "canvas",
